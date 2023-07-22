@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1690047670 "c:/Users/Sacha/Desktop/Latex/CR TP Instrum/CRTpInstrum.tex" "CRTpInstrum.pdf" "CRTpInstrum" 1690047672 0
+["pdflatex"] 1690031305 "c:/Users/Sacha/Desktop/Latex/CR TP Instrum/tex.tex" "tex.pdf" "tex" 1690031307 0
   "C:/Users/Sacha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1690031139 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Sacha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1690030954 23178960 d39efa1ddf5dc99c240652942ca95032 ""
   "C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458477487 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -100,21 +100,21 @@
   "C:/Users/Sacha/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Sacha/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Sacha/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "CRTpInstrum.aux" 1690047671 2292 5d668198ae4bc34216cc030222d074c4 "pdflatex"
-  "CRTpInstrum.out" 1690047671 1575 bc8266fbb9b8825fb9749c710a82813c "pdflatex"
-  "CRTpInstrum.tex" 1690047668 15550 c43d66fa95518f31db7a763eff0bb1e5 ""
-  "CRTpInstrum.toc" 1690047671 769 269d0819a934258ff14167a2d3036e42 "pdflatex"
-  "c:/Users/Sacha/Desktop/Latex/CR TP Instrum/CRTpInstrum.tex" 1690047668 15550 c43d66fa95518f31db7a763eff0bb1e5 ""
+  "c:/Users/Sacha/Desktop/Latex/CR TP Instrum/tex.tex" 1690031301 15550 c43d66fa95518f31db7a763eff0bb1e5 ""
   "cablecoax.png" 1678991946 17363 5cff9f06f411360a31365d93ed98b988 ""
   "graphexp3.png" 1678991946 18030 2c527359b1c34f2862b829fd3b2fa146 ""
   "schemacoax.png" 1678991946 13323 5a00954b9fe967b06e1d8cb9f1f122d1 ""
   "schemaexp1.png" 1678991946 18085 d91b0193f154e9d45ca747124d40bce9 ""
   "schemaexp2.png" 1678991946 17318 f8f75a5eb71b6c9eed2cb9199ce8ae19 ""
   "schemaexp3.png" 1678991946 24151 127661797fe9d231ee9b34fea7ebbb00 ""
+  "tex.aux" 1690031307 2292 5d668198ae4bc34216cc030222d074c4 "pdflatex"
+  "tex.out" 1690031307 1575 bc8266fbb9b8825fb9749c710a82813c "pdflatex"
+  "tex.tex" 1690031301 15550 c43d66fa95518f31db7a763eff0bb1e5 ""
+  "tex.toc" 1690031307 769 269d0819a934258ff14167a2d3036e42 "pdflatex"
   (generated)
-  "CRTpInstrum.aux"
-  "CRTpInstrum.log"
-  "CRTpInstrum.out"
-  "CRTpInstrum.pdf"
-  "CRTpInstrum.toc"
+  "tex.aux"
+  "tex.log"
+  "tex.out"
+  "tex.pdf"
+  "tex.toc"
   (rewritten before read)

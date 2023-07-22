@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.22)  22 JUL 2023 19:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.22)  22 JUL 2023 15:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Sacha/Desktop/Latex/CR TP Instrum/CRTpInstrum.tex"
-(c:/Users/Sacha/Desktop/Latex/CR TP Instrum/CRTpInstrum.tex
+**"c:/Users/Sacha/Desktop/Latex/CR TP Instrum/tex.tex"
+(c:/Users/Sacha/Desktop/Latex/CR TP Instrum/tex.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\Sacha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -295,8 +295,8 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count295
 \l__pdf_internal_box=\box53
-) (CRTpInstrum.aux)
-\openout1 = `CRTpInstrum.aux'.
+) (tex.aux)
+\openout1 = `tex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -338,9 +338,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 19.
- (CRTpInstrum.out) (CRTpInstrum.out)
+ (tex.out) (tex.out)
 \@outlinefile=\write3
-\openout3 = `CRTpInstrum.out'.
+\openout3 = `tex.out'.
 
 
 *geometry* driver: auto-detecting
@@ -377,9 +377,9 @@ Package hyperref Info: Link coloring OFF on input line 19.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(CRTpInstrum.toc)
+(tex.toc)
 \tf@toc=\write4
-\openout4 = `CRTpInstrum.toc'.
+\openout4 = `tex.toc'.
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 39.
  (C:\Users\Sacha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
@@ -429,20 +429,20 @@ File: graphexp3.png Graphic file (type png)
 <use graphexp3.png>
 Package pdftex.def Info: graphexp3.png  used on input line 312.
 (pdftex.def)             Requested size: 312.99472pt x 184.9511pt.
- [7 <./schemaexp3.png> <./graphexp3.png>] [8] (CRTpInstrum.aux)
-Package rerunfilecheck Info: File `CRTpInstrum.out' has not changed.
+ [7 <./schemaexp3.png> <./graphexp3.png>] [8] (tex.aux)
+Package rerunfilecheck Info: File `tex.out' has not changed.
 (rerunfilecheck)             Checksum: BC8266FBB9B8825FB9749C710A82813C;1575.
  ) 
 Here is how much of TeX's memory you used:
  11820 strings out of 476331
- 188777 string characters out of 5787765
+ 188601 string characters out of 5787765
  1862660 words of memory out of 5000000
  32069 multiletter control sequences out of 15000+600000
  544862 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,76p,567b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,76p,559b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Sacha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on CRTpInstrum.pdf (8 pages, 247704 bytes).
+Output written on tex.pdf (8 pages, 247704 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
